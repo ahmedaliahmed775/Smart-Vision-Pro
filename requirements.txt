@@ -1,0 +1,7 @@
+opencv-python
+cvzone
+mediapipe
+numpy
+Pillow
+arabic-reshaper
+python-bidi
